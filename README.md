@@ -1,2 +1,2 @@
-# Digital Telent Incubator (Data Scientist)
+# Digital Talent Incubator (Data Scientist)
 Materi Digital Talent Incubator - Telkom University
